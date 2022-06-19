@@ -1,7 +1,7 @@
 # IDENTIC
 ## What is Identic?
 
-Identic was a homework assignment for the CMPE230 Systems Programming course at the Bogazici University. The assignment was to create a command line tool that could be used to find replicas of a file in specified directories. The tool was implemented in python and was tested on a Linux system. I decided to create a rust version of the tool as well. My main objective in this project is to learn rust and how to use it in a real world application. 
+Identic was a homework assignment for the CMPE230 Systems Programming course at the Bogazici University. The assignment was to create a command line tool that could be used to find replicas of a file in specified directories. The tool was implemented in python and was tested on a Linux system. I decided to create a rust version of the tool as well. My main objective of this project is to learn rust and how to use it in a real world application. 
 
 It includes following features of rust:
 * Creating a macro 
