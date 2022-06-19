@@ -28,3 +28,10 @@ It includes following features of rust:
         * mod.rs : helper module
         * config.rs : config module that contains a struct for configuring the project
         * output.rs : output module that contains functions for outputting information to the user
+* test_cases/ : Test cases folder
+    * file: "g"
+    * folder/ 
+        * file_in_folder: "g"
+        * folder_in_folder/
+            * file_in_folder: "g"
+            * folder/
